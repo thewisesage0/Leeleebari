@@ -3,6 +3,7 @@ import hiddenBaby from "@/assets/hidden-baby.jpg";
 import hockeyAlpha from "@/assets/hockey-alpha.jpg";
 import loveRuins from "@/assets/love-ruins.jpg";
 import roseThorns from "@/assets/rose-thorns.jpg";
+import seducingNerdy from "@/assets/seducing.jpg";
 
 export type Book = {
   slug: string;
@@ -84,7 +85,7 @@ export const books: Book[] = [
     slug: "seducing-the-nerdy-billionaire",
     title: "Seducing The Nerdy Billionaire",
     author: "Leeleebari",
-    cover: hockeyAlpha,
+    cover: seducingNerdy,
     genre: "Billionaire Romance",
     rating: 4.8,
     reviewCount: 217,
