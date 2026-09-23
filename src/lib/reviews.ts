@@ -13,7 +13,7 @@ export type Review = {
 export const reviews: Review[] = [
   {
     quote:
-      "I finished it in one sitting and immediately wanted the next chapter. Leah feels fearless and completely real.",
+      "I’m hooked already! Leah and Adrian have such an interesting dynamic, and the pregnancy reveal made everything even more complicated. Can’t wait to see how this unfolds! ❤️.",
     name: "Amara",
     bookTitle: "Knocked Up By The Billionaire Boss",
     size: "tall",
@@ -32,7 +32,7 @@ export const reviews: Review[] = [
     size: "short",
   },
   {
-    quote: "Lena’s second chance felt earned. Tender without ever becoming easy.",
+    quote: "This story has me hooked! The five-year separation, hidden secret, and second-chance romance make it so emotional. I’m really curious to see what Lena decides!",
     name: "Mae",
     bookTitle: "The Billionaire's Ex-Mistress And His Hidden Baby",
     size: "",
