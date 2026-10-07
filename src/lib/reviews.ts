@@ -13,7 +13,7 @@ export type Review = {
 export const reviews: Review[] = [
   {
     quote:
-      "I’m hooked already! Leah and Adrian have such an interesting dynamic, and the pregnancy reveal made everything even more complicated. Can’t wait to see how this unfolds! ❤️.",
+      "The plot twists embedded in her stories are so shocking and unpridictable. Just when you think you know what's about to happen next, boom, a different thing happens",
     name: "Amara",
     bookTitle: "Knocked Up By The Billionaire Boss",
     size: "tall",
@@ -31,12 +31,12 @@ export const reviews: Review[] = [
     bookTitle: "A Love Forged In Ruins",
     size: "short",
   },
-  {
-    quote: "This story has me hooked! The five-year separation, hidden secret, and second-chance romance make it so emotional. I’m really curious to see what Lena decides!",
-    name: "Mae",
-    bookTitle: "The Billionaire's Ex-Mistress And His Hidden Baby",
-    size: "",
-  },
+ // {
+    // quote: "This story has me hooked! The five-year separation, hidden secret, and second-chance romance make it so emotional. I’m really curious to see what Lena decides!",
+    // name: "Mae",
+    // bookTitle: "The Billionaire's Ex-Mistress And His Hidden Baby",
+    // size: "",
+  // },
   {
     quote: "Darkly romantic and impossible to put down. The atmosphere stayed with me for days.",
     name: "Sophie",
